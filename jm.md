@@ -2,7 +2,7 @@
 
 ## Estudiando JavaScript
 
-Soy Desarrollador FullStack Developer, y soy apacionado de la tecnología
+Soy Desarrollador FullStack Developer, y soy apacionado de la tecnología.
 
 ### Listado
 - Conocer mejor la Terminal y el MarkDown
